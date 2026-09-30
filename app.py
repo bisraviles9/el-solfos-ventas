@@ -32,6 +32,11 @@ st.markdown(
     unsafe_allow_html=True,
 )
 st.write("")
+st.image(
+    "obra_ladrillos.png",
+    caption="Imagen ilustrativa: ladrillos de arcilla usados en una obra de construcción.",
+    use_container_width=True,
+)
 st.write("Pide información de nuestros ladrillos y solicita una cotización directamente.")
 
 st.subheader("Nuestros productos")
