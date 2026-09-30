@@ -25,6 +25,7 @@ En `app.py`, busca `PRODUCTOS`, `TELEFONO_VISIBLE`, `TELEFONO_WHATSAPP`, `CORREO
 ## Alcance actual
 
 - Catálogo de Jaboncillo, Payo y Burro.
+- Imagen ilustrativa de ladrillos de arcilla en una obra (`obra_ladrillos.png`); no es una fotografía exacta del producto fabricado.
 - Formulario para cantidades, datos de contacto, modalidad y notas.
 - Prepara un mensaje para que el comprador lo envíe por WhatsApp o correo.
 - No fija precios porque no fueron indicados; tampoco procesa pagos ni almacena pedidos.
